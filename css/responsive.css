@@ -1,0 +1,98 @@
+/*Most of the low resolution mobile phone css*/
+@media (min-width: 260px) and (max-width: 320px){
+
+	/*css start*/
+
+
+         .header .navbar-light .navbar-toggler {
+			    color: #fff;
+			    border-color: #fff;
+			}
+			.header .navbar-nav{
+				margin: 0px 0px 0px;
+			}
+			.header .navbar-toggler:focus{
+				box-shadow: 0 0 0 0rem;
+			}
+	                   
+	/*css end*/
+
+
+}
+
+
+/*Most of the mobile phone css*/
+@media (min-width: 321px) and (max-width: 480px){
+
+	/*css start*/
+					
+   .header .navbar-light .navbar-toggler {
+			    color: #fff;
+			    border-color: #fff;
+			}
+			.header .navbar-nav{
+				margin: 30px 0px 0px;
+			}
+			.header .navbar-toggler:focus{
+				box-shadow: 0 0 0 0rem;
+			}
+			.inner-text h1 {
+             font-size: 30px;
+            }
+            .inner-text p{
+            	font-size: 11px;
+            }
+            .course h1{
+            	font-size: 30px;
+            }
+            .course p{
+            	font-size: 10px;
+            }
+            .course .course-content h3, .course .course-content2 h3{
+            	font-size: 16px;
+            }
+            .facilities .facilities-text p{
+            	font-size: 13px;
+            }
+	/*css end*/
+
+
+}
+
+/*most of the low resolution tablet, mobile phone css*/
+@media (min-width: 481px) and (max-width: 767px){
+
+
+	/*css start*/
+		 .header .navbar-light .navbar-toggler {
+			    color: #fff;
+			    border-color: #fff;
+			}
+			.header .navbar-nav{
+				margin: 30px 0px 0px;
+			}
+			.header .navbar-toggler:focus{
+				box-shadow: 0 0 0 0rem;
+			}	
+	/*css end*/
+
+}
+
+/*most of the ipad, tablet,notebook css*/
+@media (min-width: 768px) and (max-width: 1024px){
+
+	/*css start*/
+	 .header .navbar-light .navbar-toggler {
+			    color: #fff;
+			    border-color: #fff;
+			}
+			.header .navbar-nav{
+				margin: 30px 0px 0px;
+			}
+			.header .navbar-toggler:focus{
+				box-shadow: 0 0 0 0rem;
+			}
+	/*css end*/
+
+	
+}
